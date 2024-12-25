@@ -21,7 +21,7 @@ This is a Node.js-based Visit Booking System that allows users to book visits, v
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/visit-booking-system.git
+   git clone https://github.com/webdryk/visit-booking-system.git
 Install the required dependencies:
 
 bash
